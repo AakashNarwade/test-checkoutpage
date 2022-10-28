@@ -24,7 +24,6 @@ const ShippingInfo = () => {
   };
   return (
     <div className="container">
-      {console.log(details)}
       <main>
         <div className="py-5 text-center">
           <h2>Checkout Form</h2>
